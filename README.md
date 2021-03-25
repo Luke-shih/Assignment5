@@ -31,5 +31,9 @@
 ### 使用 DELETE 指令刪除所有在 user 資料表中的資料。
 ![3-9](https://luke-shih.github.io/Assignment5/ans/3-9.jpg)
 
+## 要求四：結合資料表 SQL JOIN 的操作 (Optional)
+### 使用 SELECT 搭配 JOIN 的語法，取得所有留言，資料中須包含留言會員的姓名。
+![4-1](https://luke-shih.github.io/Assignment5/ans/4-1.jpg)
 
-
+### 使用 SELECT 搭配 JOIN 的語法，取得 user 資料表中欄位 username 是 ply 的所有留言，資料中須包含留言會員的姓名。
+![4-2](https://luke-shih.github.io/Assignment5/ans/4-2.jpg)

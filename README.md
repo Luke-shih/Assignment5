@@ -28,7 +28,8 @@
 ### 使用 UPDATE 指令更新欄位 username 是 ply 的使用者資料，將資料中的 name 欄位改成【丁滿】。
 ![3-8](https://luke-shih.github.io/Assignment5/ans/3-8.jpg)
 
-
+### 使用 DELETE 指令刪除所有在 user 資料表中的資料。
+![3-9](https://luke-shih.github.io/Assignment5/ans/3-9.jpg)
 
 
 

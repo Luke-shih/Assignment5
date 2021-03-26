@@ -17,7 +17,7 @@
 ![3-4](https://luke-shih.github.io/Assignment5/ans/3-4.jpg)
 
 ### 使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。
-![3-5](https://luke-shih.github.io/Assignment5/ans/3-5.jpg)
+![3-5](https://luke-shih.github.io/Assignment5/ans/3.jpg)
 
 ### 使用 SELECT 指令取得欄位 username 是 ply 的使用者資料。
 ![3-6](https://luke-shih.github.io/Assignment5/ans/3-6.jpg)
